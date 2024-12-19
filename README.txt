@@ -1,4 +1,4 @@
-Link to Live Site: https://claire-ad.github.io/Science-Writing/index.html
+Link to Live Site: https://claire-ad.github.io/Science-Writing/
 
 Credits:
 
